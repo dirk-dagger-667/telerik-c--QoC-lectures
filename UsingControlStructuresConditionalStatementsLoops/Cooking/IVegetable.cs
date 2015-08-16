@@ -1,0 +1,7 @@
+﻿namespace Cooking
+{
+    interface IVegetable
+    {
+        //...
+    }
+}
