@@ -1,0 +1,1 @@
+# telerik-c--QoC-lectures
