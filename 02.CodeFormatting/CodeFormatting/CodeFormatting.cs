@@ -1,4 +1,13 @@
-﻿namespace CodeFormatting
+﻿//Format correctly the following source code (given in Code-Formatting-Homework.zip):
+//C# code given in the file events.cs.
+//JavaScript code given in the file code.js.
+//Use the official code conventions for C# / JavaScript / Java / PHP:
+//Official C# Coding Conventions (MSDN)
+//Google JavaScript Style Guide
+//Official Java Code Conventions (by Oracle)
+//Zend code convention for PHP
+
+namespace CodeFormatting
 {
     using System;
     using System.Collections.Generic;
